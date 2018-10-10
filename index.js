@@ -8,7 +8,7 @@ const session = require('express-session')
 const path = require('path')
 const io = require('socket.io').listen(http)
 
-const rasppitemp = require('node-raspi') //Helps with GPIO access on Raspberry PI
+const raspPiTemp = require('node-raspi') //Helps with GPIO access on Raspberry PI
 const sensor = require('node-dht-sensor') // Helps with interacting with DHT sensor 
 
 //Public folder
