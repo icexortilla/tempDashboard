@@ -10,7 +10,7 @@
   "author": "Xortilla",
   "license": "MIT",
   "dependencies": {
-    "express": "4.16.3",
+    "express": "4.19.2",
     "express-session": "1.15.6",
     "helmet": "3.12.1",
     "node-dht-sensor": "0.0.34",
